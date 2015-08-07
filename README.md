@@ -1,2 +1,2 @@
 # Zombie-Manifest
-This is a game.
+To jest gra o zombie.
